@@ -17,6 +17,6 @@ To update: close Cockpit Anywhere, unzip the new version over the old folder (or
 Your settings are kept.
 
 # please report all bugs and I will fix them as quickly as I can
-Bugs, ideas and help: Cockpit Anywhere Discord
+Bugs, ideas and help: [Cockpit Anywhere Discord](https://discord.gg/YYDABgXyN)
 
 If Cockpit Anywhere adds to your flying: [buy me a coffee](https://buymeacoffee.com/meltedcores).
